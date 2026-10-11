@@ -20,6 +20,7 @@ Handled missing or non-numeric quantities and prices by filling or dropping corr
 ## 5. Console Output Screenshots
 
 ### Terminal Output and Summary report:
+<img width="701" height="50" alt="cleaningoutput" src="https://github.com/user-attachments/assets/0a72a98c-deb9-4cfe-a0ab-ee9f9c571466" />
 <img width="997" height="553" alt="summaryreport" src="https://github.com/user-attachments/assets/a9ff3073-5e6b-4e89-901f-4ff9aa62326e" />
 
 ### Description
