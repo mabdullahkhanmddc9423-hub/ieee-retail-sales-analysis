@@ -20,9 +20,7 @@ Handled missing or non-numeric quantities and prices by filling or dropping corr
 ## 5. Console Output Screenshots
 
 ### Terminal Output and Summary report:
-<img width="633" height="225" alt="Program1" src="https://github.com/user-attachments/assets/1b103d17-5163-461d-a825-b372a536a15c" />
-<img width="730" height="278" alt="Program2" src="https://github.com/user-attachments/assets/effedfc2-2e9f-40cb-8488-234321610c81" />
-
+<img width="997" height="553" alt="summaryreport" src="https://github.com/user-attachments/assets/a9ff3073-5e6b-4e89-901f-4ff9aa62326e" />
 ### Description
 
 The business generated a Total Revenue of $3,492.81 across 25 valid orders with an Average Order Value of $139.71, moving a total of 81 units.   
