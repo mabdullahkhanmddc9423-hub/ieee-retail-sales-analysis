@@ -18,3 +18,5 @@ Data Source: Custom retail sales CSV dataset created with 25-30 records containi
 Missing Values & Cleaning: Dropped duplicate transaction rows based on order_id to ensure unique records.
 Handled missing or non-numeric quantities and prices by filling or dropping corrupted rows to maintain mathematical accuracy.
 ## 5. Console Output Screenshots
+Terminal Output:
+![Terminal Output](ieee-retail-sales-analysis/Program1.png)
