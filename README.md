@@ -18,10 +18,10 @@ Data Source: Custom retail sales CSV dataset created with 25-30 records containi
 Missing Values & Cleaning: Dropped duplicate transaction rows based on order_id to ensure unique records.
 Handled missing or non-numeric quantities and prices by filling or dropping corrupted rows to maintain mathematical accuracy.
 ## 5. Console Output Screenshots
-**Terminal Output and Summary report**
+# Terminal Output and Summary report:
 <img width="633" height="225" alt="Program1" src="https://github.com/user-attachments/assets/1b103d17-5163-461d-a825-b372a536a15c" />
 <img width="730" height="278" alt="Program2" src="https://github.com/user-attachments/assets/effedfc2-2e9f-40cb-8488-234321610c81" />
-**Description**
+# Description
 The business generated a Total Revenue of $3,492.81 across 25 valid orders with an Average Order Value of $139.71, moving a total of 81 units.   
 Top Product: Office Chair emerged as the highest-performing product.   
 Category Breakdown: Electronics led total sales ($1,880.00), followed by Furniture ($900.00) and Home ($712.81).   
