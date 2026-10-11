@@ -21,8 +21,8 @@ Handled missing or non-numeric quantities and prices by filling or dropping corr
 
 ### Terminal Output and Summary report:
 <img width="997" height="553" alt="summaryreport" src="https://github.com/user-attachments/assets/a9ff3073-5e6b-4e89-901f-4ff9aa62326e" />
-### Description
 
+### Description
 The business generated a Total Revenue of $3,492.81 across 25 valid orders with an Average Order Value of $139.71, moving a total of 81 units.   
 Top Product: Office Chair emerged as the highest-performing product.   
 Category Breakdown: Electronics led total sales ($1,880.00), followed by Furniture ($900.00) and Home ($712.81).   
