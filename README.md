@@ -20,3 +20,4 @@ Handled missing or non-numeric quantities and prices by filling or dropping corr
 ## 5. Console Output Screenshots
 Terminal Output:
 ![Terminal Output](ieee-retail-sales-analysis/Program1.png)
+![Terminal Output](ieee-retail-sales-analysis/Program2.png)
